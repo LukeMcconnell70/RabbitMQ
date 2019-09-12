@@ -1,0 +1,14 @@
+C:\Users\lmcconn\source\repos\Solution1\Publisher\bin\Debug\netcoreapp2.1\Publisher.deps.json
+C:\Users\lmcconn\source\repos\Solution1\Publisher\bin\Debug\netcoreapp2.1\Publisher.runtimeconfig.json
+C:\Users\lmcconn\source\repos\Solution1\Publisher\bin\Debug\netcoreapp2.1\Publisher.runtimeconfig.dev.json
+C:\Users\lmcconn\source\repos\Solution1\Publisher\bin\Debug\netcoreapp2.1\Publisher.dll
+C:\Users\lmcconn\source\repos\Solution1\Publisher\obj\Debug\netcoreapp2.1\Publisher.csprojAssemblyReference.cache
+C:\Users\lmcconn\source\repos\Solution1\Publisher\obj\Debug\netcoreapp2.1\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\lmcconn\source\repos\Solution1\Publisher\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\lmcconn\source\repos\Solution1\Publisher\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfo.cs
+C:\Users\lmcconn\source\repos\Solution1\Publisher\bin\Debug\netcoreapp2.1\Publisher.pdb
+C:\Users\lmcconn\source\repos\Solution1\Publisher\bin\Debug\netcoreapp2.1\Messages.dll
+C:\Users\lmcconn\source\repos\Solution1\Publisher\bin\Debug\netcoreapp2.1\Messages.pdb
+C:\Users\lmcconn\source\repos\Solution1\Publisher\obj\Debug\netcoreapp2.1\Publisher.csproj.CopyComplete
+C:\Users\lmcconn\source\repos\Solution1\Publisher\obj\Debug\netcoreapp2.1\Publisher.dll
+C:\Users\lmcconn\source\repos\Solution1\Publisher\obj\Debug\netcoreapp2.1\Publisher.pdb
